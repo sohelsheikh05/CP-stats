@@ -1,0 +1,166 @@
+{
+    "data": {
+        "recentAcSubmissionList": [
+            {
+                "id": "1805029460",
+                "title": "Maximum Number of Distinct Elements After Operations",
+                "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+                "timestamp": "1760795615",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1804935059",
+                "title": "Remove Covered Intervals",
+                "titleSlug": "remove-covered-intervals",
+                "timestamp": "1760786052",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1804921478",
+                "title": "Non-overlapping Intervals",
+                "titleSlug": "non-overlapping-intervals",
+                "timestamp": "1760784591",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1804763073",
+                "title": "Interval List Intersections",
+                "titleSlug": "interval-list-intersections",
+                "timestamp": "1760768059",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1804250581",
+                "title": "Insert Interval",
+                "titleSlug": "insert-interval",
+                "timestamp": "1760709066",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1803538700",
+                "title": "Smallest Missing Non-negative Integer After Operations",
+                "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+                "timestamp": "1760632589",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1801472582",
+                "title": "Adjacent Increasing Subarrays Detection I",
+                "titleSlug": "adjacent-increasing-subarrays-detection-i",
+                "timestamp": "1760453074",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1801335071",
+                "title": "Subarray Sum Equals K",
+                "titleSlug": "subarray-sum-equals-k",
+                "timestamp": "1760443538",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1801094518",
+                "title": "Maximum Number of Vowels in a Substring of Given Length",
+                "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+                "timestamp": "1760423228",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1800381649",
+                "title": "Find Resultant Array After Removing Anagrams",
+                "titleSlug": "find-resultant-array-after-removing-anagrams",
+                "timestamp": "1760365430",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1797905529",
+                "title": "Sliding Window Maximum",
+                "titleSlug": "sliding-window-maximum",
+                "timestamp": "1760159314",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1797503105",
+                "title": "Taking Maximum Energy From the Mystic Dungeon",
+                "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+                "timestamp": "1760113588",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1796965128",
+                "title": "Continuous Subarray Sum",
+                "titleSlug": "continuous-subarray-sum",
+                "timestamp": "1760070009",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1796102875",
+                "title": "Subarray Sum Equals K",
+                "titleSlug": "subarray-sum-equals-k",
+                "timestamp": "1759993524",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1795594041",
+                "title": "Contains Duplicate III",
+                "titleSlug": "contains-duplicate-iii",
+                "timestamp": "1759944749",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1795384109",
+                "title": "Successful Pairs of Spells and Potions",
+                "titleSlug": "successful-pairs-of-spells-and-potions",
+                "timestamp": "1759933386",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1794274464",
+                "title": "Avoid Flood in The City",
+                "titleSlug": "avoid-flood-in-the-city",
+                "timestamp": "1759847192",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1793789094",
+                "title": "Subarrays with K Different Integers",
+                "titleSlug": "subarrays-with-k-different-integers",
+                "timestamp": "1759811402",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1792932826",
+                "title": "Swim in Rising Water",
+                "titleSlug": "swim-in-rising-water",
+                "timestamp": "1759738894",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            },
+            {
+                "id": "1792897063",
+                "title": "Maximum Points You Can Obtain from Cards",
+                "titleSlug": "maximum-points-you-can-obtain-from-cards",
+                "timestamp": "1759735429",
+                "statusDisplay": "Accepted",
+                "lang": "java"
+            }
+        ]
+    }
+}

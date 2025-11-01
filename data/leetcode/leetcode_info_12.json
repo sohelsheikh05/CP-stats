@@ -1,0 +1,47 @@
+{
+    "data": {
+        "matchedUser": {
+            "username": "sohel_1007",
+            "submitStats": {
+                "acSubmissionNum": [
+                    {
+                        "difficulty": "All",
+                        "count": 405,
+                        "submissions": 440
+                    },
+                    {
+                        "difficulty": "Easy",
+                        "count": 199,
+                        "submissions": 216
+                    },
+                    {
+                        "difficulty": "Medium",
+                        "count": 191,
+                        "submissions": 207
+                    },
+                    {
+                        "difficulty": "Hard",
+                        "count": 15,
+                        "submissions": 17
+                    }
+                ]
+            },
+            "profile": {
+                "ranking": 249840,
+                "userAvatar": "https://assets.leetcode.com/users/sohel_1007/avatar_1749215214.png",
+                "realName": "sohel_1007",
+                "aboutMe": "ebrYBxze",
+                "school": null,
+                "websites": [],
+                "countryName": null,
+                "company": null,
+                "jobTitle": null,
+                "skillTags": [],
+                "postViewCount": 7,
+                "reputation": 0,
+                "solutionCount": 0,
+                "categoryDiscussCount": 0
+            }
+        }
+    }
+}
